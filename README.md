@@ -1,4 +1,4 @@
-# Store-Opening-Toolkit
+# Store Opening Toolkit
 ## Introduction
 The "Store Opening Toolkit" provides a comprehensive toolset for potential business owners looking to open physical stores, leveraging APIs like Google Maps, Yelp Fusion, and OpenAI to generate location-specific recommendations for shop openings.
 
